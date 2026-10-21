@@ -9,6 +9,10 @@
 
 <p align="center">
   <a href="https://hollowfiregames.github.io">Sitio web</a> ·
+  <a href="https://www.youtube.com/@HollowfireGames">YouTube</a> ·
+  <a href="https://www.tiktok.com/@hollowfirestudio1">TikTok</a> ·
+  <a href="https://www.instagram.com/hollowfiregames">Instagram</a> ·
+  <a href="https://x.com/HollowfireGames">X</a> ·
   <a href="mailto:hollowfire.games@gmail.com">Contacto</a>
 </p>
 
