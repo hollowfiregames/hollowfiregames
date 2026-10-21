@@ -14,7 +14,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Godot-4-478CBF?style=flat-square&logo=godotengine&logoColor=white" alt="Godot 4">
-  <img src="https://img.shields.io/badge/GDScript-1a120d?style=flat-square&logo=godotengine&logoColor=f2c14e" alt="GDScript">
+  <img src="https://img.shields.io/badge/GDScript-f2c14e?style=flat-square&logo=godotengine&logoColor=1a120d" alt="GDScript">
   <img src="https://img.shields.io/badge/Android-1F6F43?style=flat-square&logo=android&logoColor=white" alt="Android">
   <img src="https://img.shields.io/badge/pixel%20art-c2410c?style=flat-square" alt="Pixel art">
 </p>
