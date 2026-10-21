@@ -39,8 +39,6 @@ Truco argentino 1 contra 1, con flor, en pixel art, en una pulpería de la pampa
 
 ## Cómo trabajamos / How we work
 
-- **Todo propio, desde cero:** el arte, la música, los sonidos y las voces se hacen en código, sin material de terceros.
-  *Everything original: art, music, sound and voices are made in code.*
 - **Con rigor histórico:** gauchos, pulperías y habla rioplatense del siglo XIX, estudiados antes de dibujar o escribir.
   *Historically grounded in 19th-century Río de la Plata culture.*
 - **Para jugadores nuevos:** poco texto en pantalla y una curva de aprendizaje suave.
